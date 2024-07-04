@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+    <link rel="stylesheet" href="style/bootstrap.min.css">
+    <link rel="stylesheet" href="style/login-register.css">
+    <script defer src="js/bootstrap.bundle.min.js"></script>
+    <script defer src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+    <script defer src="js/login.js"></script>
+</head>
+
+<body>
+    <div class="background-image d-flex justify-content-center align-items-center">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-md-6">
+                    <div class="form-container">
+                        <h2 class="text-center mb-4">Login</h2>
+                        <form id="main-form">
+                            <div class="mb-3">
+                                <label for="username" class="form-label">Nome utente</label>
+                                <input type="text" class="form-control" id="username" placeholder="Inserisci il nome utente" required>
+                            </div>
+                            <div class="mb-3">
+                                <label for="password" class="form-label">Password</label>
+                                <input type="password" class="form-control" id="password" placeholder="Inserisci la password" required>
+                            </div>
+                            <button type="submit" class="btn btn-primary w-100">Login</button>
+                            <button type="button" class="btn btn-primary w-100 mt-3" onclick="redirectToRegistration()">Registrati</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        function redirectToRegistration() {
+            window.location.href = '/Registration.html';
+        }
+    </script>
+</body>
+
+</html>
