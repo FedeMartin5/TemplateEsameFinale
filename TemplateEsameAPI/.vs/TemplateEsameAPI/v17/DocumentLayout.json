@@ -3,24 +3,32 @@
   "WorkspaceRootPath": "C:\\ITS\\TemplateEsameFinale\\TemplateEsameAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F00AA91E-926C-4800-8334-FC5428938F77}|TemplateEsameAPI\\TemplateEsameAPI.csproj|c:\\its\\templateesamefinale\\templateesameapi\\templateesameapi\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F00AA91E-926C-4800-8334-FC5428938F77}|TemplateEsameAPI\\TemplateEsameAPI.csproj|solutionrelative:templateesameapi\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F00AA91E-926C-4800-8334-FC5428938F77}|TemplateEsameAPI\\TemplateEsameAPI.csproj|c:\\its\\templateesamefinale\\templateesameapi\\templateesameapi\\models\\film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00AA91E-926C-4800-8334-FC5428938F77}|TemplateEsameAPI\\TemplateEsameAPI.csproj|solutionrelative:templateesameapi\\models\\film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F00AA91E-926C-4800-8334-FC5428938F77}|TemplateEsameAPI\\TemplateEsameAPI.csproj|c:\\its\\templateesamefinale\\templateesameapi\\templateesameapi\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F00AA91E-926C-4800-8334-FC5428938F77}|TemplateEsameAPI\\TemplateEsameAPI.csproj|solutionrelative:templateesameapi\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F00AA91E-926C-4800-8334-FC5428938F77}|TemplateEsameAPI\\TemplateEsameAPI.csproj|c:\\its\\templateesamefinale\\templateesameapi\\templateesameapi\\controllers\\filmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F00AA91E-926C-4800-8334-FC5428938F77}|TemplateEsameAPI\\TemplateEsameAPI.csproj|solutionrelative:templateesameapi\\controllers\\filmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F00AA91E-926C-4800-8334-FC5428938F77}|TemplateEsameAPI\\TemplateEsameAPI.csproj|c:\\its\\templateesamefinale\\templateesameapi\\templateesameapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F00AA91E-926C-4800-8334-FC5428938F77}|TemplateEsameAPI\\TemplateEsameAPI.csproj|solutionrelative:templateesameapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F00AA91E-926C-4800-8334-FC5428938F77}|TemplateEsameAPI\\TemplateEsameAPI.csproj|c:\\its\\templateesamefinale\\templateesameapi\\templateesameapi\\services\\filmservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F00AA91E-926C-4800-8334-FC5428938F77}|TemplateEsameAPI\\TemplateEsameAPI.csproj|solutionrelative:templateesameapi\\services\\filmservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F00AA91E-926C-4800-8334-FC5428938F77}|TemplateEsameAPI\\TemplateEsameAPI.csproj|c:\\its\\templateesamefinale\\templateesameapi\\templateesameapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F00AA91E-926C-4800-8334-FC5428938F77}|TemplateEsameAPI\\TemplateEsameAPI.csproj|solutionrelative:templateesameapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F00AA91E-926C-4800-8334-FC5428938F77}|TemplateEsameAPI\\TemplateEsameAPI.csproj|c:\\its\\templateesamefinale\\templateesameapi\\templateesameapi\\controllers\\filmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00AA91E-926C-4800-8334-FC5428938F77}|TemplateEsameAPI\\TemplateEsameAPI.csproj|solutionrelative:templateesameapi\\controllers\\filmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00AA91E-926C-4800-8334-FC5428938F77}|TemplateEsameAPI\\TemplateEsameAPI.csproj|c:\\its\\templateesamefinale\\templateesameapi\\templateesameapi\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00AA91E-926C-4800-8334-FC5428938F77}|TemplateEsameAPI\\TemplateEsameAPI.csproj|solutionrelative:templateesameapi\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00AA91E-926C-4800-8334-FC5428938F77}|TemplateEsameAPI\\TemplateEsameAPI.csproj|c:\\its\\templateesamefinale\\templateesameapi\\templateesameapi\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00AA91E-926C-4800-8334-FC5428938F77}|TemplateEsameAPI\\TemplateEsameAPI.csproj|solutionrelative:templateesameapi\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,19 +38,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 1524,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "FilmController.cs",
-              "DocumentMoniker": "C:\\ITS\\TemplateEsameFinale\\TemplateEsameAPI\\TemplateEsameAPI\\Controllers\\FilmController.cs",
-              "RelativeDocumentMoniker": "TemplateEsameAPI\\Controllers\\FilmController.cs",
-              "ToolTip": "C:\\ITS\\TemplateEsameFinale\\TemplateEsameAPI\\TemplateEsameAPI\\Controllers\\FilmController.cs",
-              "RelativeToolTip": "TemplateEsameAPI\\Controllers\\FilmController.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAmwBcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T10:34:38.502Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\ITS\\TemplateEsameFinale\\TemplateEsameAPI\\TemplateEsameAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "TemplateEsameAPI\\appsettings.json",
+              "ToolTip": "C:\\ITS\\TemplateEsameFinale\\TemplateEsameAPI\\TemplateEsameAPI\\appsettings.json",
+              "RelativeToolTip": "TemplateEsameAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-08T07:35:39.936Z",
               "EditorCaption": ""
             },
             {
@@ -53,23 +61,47 @@
               "RelativeDocumentMoniker": "TemplateEsameAPI\\Services\\FilmService.cs",
               "ToolTip": "C:\\ITS\\TemplateEsameFinale\\TemplateEsameAPI\\TemplateEsameAPI\\Services\\FilmService.cs",
               "RelativeToolTip": "TemplateEsameAPI\\Services\\FilmService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T10:34:36.029Z",
+              "WhenOpened": "2024-07-08T07:35:27.837Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\ITS\\TemplateEsameFinale\\TemplateEsameAPI\\TemplateEsameAPI\\Program.cs",
-              "RelativeDocumentMoniker": "TemplateEsameAPI\\Program.cs",
-              "ToolTip": "C:\\ITS\\TemplateEsameFinale\\TemplateEsameAPI\\TemplateEsameAPI\\Program.cs",
-              "RelativeToolTip": "TemplateEsameAPI\\Program.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAADwvysAAAABAAAA",
+              "DocumentIndex": 0,
+              "Title": "Film.cs",
+              "DocumentMoniker": "C:\\ITS\\TemplateEsameFinale\\TemplateEsameAPI\\TemplateEsameAPI\\Models\\Film.cs",
+              "RelativeDocumentMoniker": "TemplateEsameAPI\\Models\\Film.cs",
+              "ToolTip": "C:\\ITS\\TemplateEsameFinale\\TemplateEsameAPI\\TemplateEsameAPI\\Models\\Film.cs",
+              "RelativeToolTip": "TemplateEsameAPI\\Models\\Film.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T10:04:40.841Z",
+              "WhenOpened": "2024-07-08T07:35:19.059Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\ITS\\TemplateEsameFinale\\TemplateEsameAPI\\TemplateEsameAPI\\DTO\\UserDto.cs",
+              "RelativeDocumentMoniker": "TemplateEsameAPI\\DTO\\UserDto.cs",
+              "ToolTip": "C:\\ITS\\TemplateEsameFinale\\TemplateEsameAPI\\TemplateEsameAPI\\DTO\\UserDto.cs",
+              "RelativeToolTip": "TemplateEsameAPI\\DTO\\UserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T13:11:16.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "C:\\ITS\\TemplateEsameFinale\\TemplateEsameAPI\\TemplateEsameAPI\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "TemplateEsameAPI\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "C:\\ITS\\TemplateEsameFinale\\TemplateEsameAPI\\TemplateEsameAPI\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "TemplateEsameAPI\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T13:07:12.688Z"
             },
             {
               "$type": "Document",
@@ -79,22 +111,22 @@
               "RelativeDocumentMoniker": "TemplateEsameAPI\\Services\\AuthenticationService.cs",
               "ToolTip": "C:\\ITS\\TemplateEsameFinale\\TemplateEsameAPI\\TemplateEsameAPI\\Services\\AuthenticationService.cs",
               "RelativeToolTip": "TemplateEsameAPI\\Services\\AuthenticationService.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAMwCcAAAAAAAAA",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwDcAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T09:47:09.308Z",
+              "WhenOpened": "2024-07-06T13:07:09.686Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AuthenticationController.cs",
-              "DocumentMoniker": "C:\\ITS\\TemplateEsameFinale\\TemplateEsameAPI\\TemplateEsameAPI\\Controllers\\AuthenticationController.cs",
-              "RelativeDocumentMoniker": "TemplateEsameAPI\\Controllers\\AuthenticationController.cs",
-              "ToolTip": "C:\\ITS\\TemplateEsameFinale\\TemplateEsameAPI\\TemplateEsameAPI\\Controllers\\AuthenticationController.cs",
-              "RelativeToolTip": "TemplateEsameAPI\\Controllers\\AuthenticationController.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAowBIAAAAsAAAA",
+              "DocumentIndex": 4,
+              "Title": "FilmController.cs",
+              "DocumentMoniker": "C:\\ITS\\TemplateEsameFinale\\TemplateEsameAPI\\TemplateEsameAPI\\Controllers\\FilmController.cs",
+              "RelativeDocumentMoniker": "TemplateEsameAPI\\Controllers\\FilmController.cs",
+              "ToolTip": "C:\\ITS\\TemplateEsameFinale\\TemplateEsameAPI\\TemplateEsameAPI\\Controllers\\FilmController.cs",
+              "RelativeToolTip": "TemplateEsameAPI\\Controllers\\FilmController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB4AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T09:48:45.432Z",
+              "WhenOpened": "2024-07-04T10:34:38.502Z",
               "EditorCaption": ""
             }
           ]

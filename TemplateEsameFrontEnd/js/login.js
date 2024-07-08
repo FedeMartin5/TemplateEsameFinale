@@ -22,6 +22,7 @@ document.addEventListener("DOMContentLoaded", function() {
         })
         .then(data => {
             localStorage.setItem('jwt', data); // Salva il token JWT in locale
+            localStorage.setItem('marcoPacchiots', marcos)
             window.location.href = '/Home.html'; // Reindirizza alla pagina di dashboard dopo il login
         })
         .catch(error => {

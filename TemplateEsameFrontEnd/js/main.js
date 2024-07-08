@@ -40,3 +40,13 @@ document.addEventListener("DOMContentLoaded", function() {
         console.error('There was a problem with the fetch operation:', error);
     });
 });
+
+
+function toggleAnimation() {
+    const image = document.getElementById('rotatingImage');
+    if (image.style.animationPlayState === 'paused') {
+        image.style.animationPlayState = 'running';
+    } else {
+        image.style.animationPlayState = 'paused';
+    }
+}
